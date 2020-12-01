@@ -14,9 +14,3 @@ Para su instalación, también procederemos a seguir los pasos de la [página of
 
       sudo chmod +x /usr/local/bin/docker-compose
       
-- Comprobamos que está instalado
-
-      docker-compose --version
-      
-      output:
-      docker-compose version 1.27.4, build 40524192
