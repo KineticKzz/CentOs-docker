@@ -10,3 +10,5 @@ En este proyecto vamos a proceder a la instalacion de docker en CentOs y vamos a
 3. [Comprobación](https://github.com/sergiolaguens/CentOs-docker/blob/main/comprobacion.md)
 
 ## REFERENCIAS
+
+[Pagina oficial de Docker](https://docs.docker.com/engine/install/centos/)
