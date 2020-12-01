@@ -15,10 +15,4 @@ Para la instalación vamos a seguir los pasos de la [página oficial de docker](
 - Activamos el servicio de docker
 
       sudo systemctl start docker
-      
-- Corremos un contenedor de hello-world para comprobar que tenemos docker
 
-      docker run hello-world
-      
-      output:
-      Hello from Docker!
